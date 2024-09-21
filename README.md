@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Gupta</h1>
-<h3 align="center">Research Scholar at Department of Computational & Data Sciences, Indian Institute of Science,Bangalore.Indian Institute of Science,</h3>
+<h3 align="center">Research Scholar at Department of Computational & Data Sciences, Indian Institute of Science, Bangalore.</h3>
 
 - 👨‍💻 My Home Page is [https://sites.google.com/view/deepakiisc/home](https://sites.google.com/view/deepakiisc/home)
 
