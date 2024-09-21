@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Gupta</h1>
 <h3 align="center">Research Scholar at Department of Computational & Data Sciences, Indian Institute of Science, Bangalore.</h3>
 
-- 👨‍💻 My Home Page is [https://sites.google.com/view/deepakiisc/home](https://sites.google.com/view/deepakiisc/home)
+- 👨‍💻  Home Page : [https://sites.google.com/view/deepakiisc/home](https://sites.google.com/view/deepakiisc/home)
 
-- Linkedin Profile is [https://www.linkedin.com/in/deepakiisc/](https://www.linkedin.com/in/deepakiisc/)
+- Linkedin : [https://www.linkedin.com/in/deepakiisc/](https://www.linkedin.com/in/deepakiisc/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K6hHUMs-VR3yfc7mLs8ASNgoVHlZ0tmW/view?usp=sharing](https://drive.google.com/file/d/1K6hHUMs-VR3yfc7mLs8ASNgoVHlZ0tmW/view?usp=sharing)
 
