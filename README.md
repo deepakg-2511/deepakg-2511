@@ -3,7 +3,7 @@
 
 **`PhD, Research Scholar at IISc Bangalore`**
 
-I’m a PhD student in the Department of Computational and Data Sciences, where I am currently working on quantum machine learning approaches to solve scientific problems. Building on neural network foundations, I explore quantum neural networks for improved model training, with a particular focus on neural networks and neural operators in quantum settings. My research focuses on quantum computing from an algorithmic perspective, and I’m excited to contribute to this rapidly evolving field.
+I’m a PhD student in the Department of Computational and Data Sciences, currently working on quantum machine learning approaches to solve scientific problems. Building on neural network foundations, I explore quantum neural networks for improved model training, with a particular focus on neural networks and neural operators in quantum settings. My research focuses on quantum computing from an algorithmic perspective, and I’m excited to contribute to this rapidly evolving field.
 <div style="display: flex; justify-content: space-between;">
 
 <div style="width: 30%;">
