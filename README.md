@@ -15,15 +15,20 @@ I’m a PhD student in the Department of Computational and Data Sciences, curren
 - Deep learning  
 
 </div>
-<div style="width: 100%;">
+<div style="width: 65%;">
 ### **Education**
+  
 #### 🎓 Ph.D. in Computational and Data Sciences &nbsp;&nbsp;&nbsp; **2023 – Present**  
 Indian Institute of Science, Bengaluru  
+
 #### 🎓 Master's Degree (M.Sc.) in Mathematics &nbsp;&nbsp;&nbsp; **2020 – 2022**  
 Indian Institute of Technology, Kharagpur  
+
 #### 🎓 Bachelor's Degree (B.Sc.) in Mathematics (Hons) &nbsp;&nbsp;&nbsp; **2017 – 2020**  
 Kirori Mal College, University of Delhi  
+
 </div>
+
 </div>
 
 
