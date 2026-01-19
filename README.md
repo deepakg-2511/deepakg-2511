@@ -16,6 +16,7 @@ I am a PhD student in the Department of Computational and Data Sciences, working
 
 </div>
 <div style="width: 65%;">
+  
 ### **Education**
   
 #### 🎓 Ph.D. in Computational and Data Sciences &nbsp;&nbsp;&nbsp; **2023 – Present**  
